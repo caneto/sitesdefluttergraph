@@ -1,18 +1,31 @@
 # Flutter Graph Websites
 
-## Authentication Web
+- [Me apoie no Patreon](https://patreon.com/carlosalbertopinto?fan_landing=true)
+
+
+## Web de autenticação
  
 <img src="results/auth.png" />
 
-## Crypto App and Web
+## Aplicativo de criptografia e Web
  
 <img src="results/crypto app.jpeg" height="500" />
 
 <img src="results/crytpo.png" />
 
-## Financial Statistics
+## Estatísticas Financeiras
 
 <img src="results/pancake.png" />
+
+<h2>🛠️ Funcionalidades e Componentes usados</h2>
+
+- line_icons - 2.0.1
+- flutter_sgv - 1.1.6
+- animate_do - 2.1.0
+- bubble - 1.2.1
+- flutter_font_icons - 2.2.5
+- badges - 2.0.3
+
 
 
 # Design Credits:
@@ -21,6 +34,6 @@
 - https://dribbble.com/shots/16753965-Login-Sign-up-Dark-Mode-AW-Universal-Page
 - https://dribbble.com/shots/17463994-Crypto-Wallet-Shot-Dark-Version
 
-# Contact me
+# Contate-me
 - ayyansaad46@gmail.com
 - k200161@nu.edu.pk
