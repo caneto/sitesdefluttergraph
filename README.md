@@ -9,7 +9,7 @@
 
 ## Aplicativo de criptografia e Web
  
-<img src="demo/crypto_app.jpg" height="500" />
+<img src="demos/crypto_app.jpg" height="500" />
 
 ## Estatísticas Financeiras
 
