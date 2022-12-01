@@ -9,11 +9,11 @@
 
 ## Aplicativo de criptografia e Web
  
-<img src="demos/crypto_app.jpg" height="500" />
+<img src="demos/crypto_app.png" height="500" />
 
 ## Estatísticas Financeiras
 
-<img src="results/pancake.png" />
+<img src="demos/estatisticas.png" />
 
 <h2>🛠️ Funcionalidades e Componentes usados</h2>
 
