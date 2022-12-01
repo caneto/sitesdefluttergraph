@@ -9,9 +9,7 @@
 
 ## Aplicativo de criptografia e Web
  
-<img src="results/crypto app.jpeg" height="500" />
-
-<img src="results/crytpo.png" />
+<img src="demo/crypto_app.jpg" height="500" />
 
 ## Estatísticas Financeiras
 
