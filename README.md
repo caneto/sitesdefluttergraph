@@ -15,6 +15,10 @@
 
 <img src="demos/estatisticas.png" />
 
+## DashBoard
+
+<img src="demos/dashboard_web.png" />
+
 <h2>🛠️ Funcionalidades e Componentes usados</h2>
 
 - line_icons - 2.0.1
