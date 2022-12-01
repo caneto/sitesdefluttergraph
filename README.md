@@ -23,12 +23,8 @@
 
 <h2>🛠️ Funcionalidades e Componentes usados</h2>
 
-- line_icons - 2.0.1
-- flutter_sgv - 1.1.6
-- animate_do - 2.1.0
-- bubble - 1.2.1
-- flutter_font_icons - 2.2.5
-- badges - 2.0.3
+-  syncfusion_flutter_charts - 20.3.49
+-  responsive_framework - 0.2.0
 
 
 
@@ -38,3 +34,13 @@
 - https://dribbble.com/shots/16753965-Login-Sign-up-Dark-Mode-AW-Universal-Page
 - https://dribbble.com/shots/17463994-Crypto-Wallet-Shot-Dark-Version
 
+ 
+<h2>📝 Licença</h2>
+
+<p>
+   Esse repositório está sobre a Licença GNU General Public License v3.0, e você pode vê-la no arquivo <a href="https://github.com/caneto/calculator-app/blob/main/LICENSE">LICENSE</a> para mais detalhes. 😉
+</p>
+
+
+
+[![Linkedin Badge](https://img.shields.io/badge/-Carlos%20Alberto-292929?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/canetorj/)](https://www.linkedin.com/in/canetorj/)
