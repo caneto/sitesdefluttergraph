@@ -5,7 +5,7 @@
 
 ## Web de autenticação
  
-<img src="results/auth.png" />
+<img src="demos/auth_web.png" />
 
 ## Aplicativo de criptografia e Web
  
@@ -34,6 +34,3 @@
 - https://dribbble.com/shots/16753965-Login-Sign-up-Dark-Mode-AW-Universal-Page
 - https://dribbble.com/shots/17463994-Crypto-Wallet-Shot-Dark-Version
 
-# Contate-me
-- ayyansaad46@gmail.com
-- k200161@nu.edu.pk
