@@ -129,7 +129,7 @@ class Sidebar extends StatelessWidget {
               width: 50,
               fit: BoxFit.fitWidth,
             ),
-            label: const Text("Saad"),
+            label: const Text("Crypto"),
           ),
           const Spacer(),
           ListTile(

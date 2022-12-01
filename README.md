@@ -7,11 +7,11 @@
  
 <img src="demos/auth_web.png" />
 
-<img src="demos/pancake_stats_web.png" />
-
 ## Aplicativo de criptografia e Web
  
 <img src="demos/crypto_app.png" height="500" />
+
+<img src="demos/pancake_stats_web.png" />
 
 ## Estatísticas Financeiras
 
